@@ -1,4 +1,4 @@
-# AutoBehavAnalysis
+# AutoHabiAnalysis
 This software package automates analysis and visualization of high-throughput behavioral data.
 
 (Codes and the applications will be available soon once accompanying paper is submitted for review)
